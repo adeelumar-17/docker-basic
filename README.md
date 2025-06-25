@@ -6,7 +6,7 @@ Here's a concise and clear `README.md` for your Python + Docker project:
 # Python Docker App
 
 A simple Python app that prints a string, containerized using Docker.
-([Project URL](https://github.com/adeelumar-17/docker-basic))
+([Project URL](https://roadmap.sh/projects/basic-dockerfile))
 
 ## 🐳 Prerequisites
 - Docker installed ([Install Guide](https://docs.docker.com/get-docker/))
